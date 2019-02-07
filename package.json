@@ -1,0 +1,22 @@
+{
+  "name": "npm-sandbox",
+  "version": "1.0.0",
+  "description": "A sandbox to deploy and test the development of npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangzeroo/npm-sandbox.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "kangzeroo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kangzeroo/npm-sandbox/issues"
+  },
+  "homepage": "https://github.com/kangzeroo/npm-sandbox#readme"
+}
